@@ -52,3 +52,12 @@ docker pull messense/aliyundrive-webdav:latest
 #### [Actions] - [Get-AMD64-Docker-Images-Release] - [Run Workflow]
 
 `rclone/rclone:latest,andrey01/aria2c:latest,wibol/mldonkey-ubuntu:latest,jellyfin/jellyfin:latest,v2ray/official:latest,dreamacro/clash:latest,benzbrake/goflyway:latest,messense/aliyundrive-webdav:latest`
+
+---
+
+##### 1. [直播平台直播源代理程序](https://hub.docker.com/r/youshandefeiyang/allinone)
+
+```dockerfile
+docker pull youshandefeiyang/allinone:latest
+```
+
