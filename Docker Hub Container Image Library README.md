@@ -51,4 +51,4 @@ docker pull messense/aliyundrive-webdav:latest
 ---
 #### [Actions] - [Get-AMD64-Docker-Images-Release] - [Run Workflow]
 
-v2ray/official:latest,dreamacro/clash:latest,benzbrake/goflyway:latest,rclone/rclone:latest,messense/aliyundrive-webdav:latest,andrey01/aria2c:latest,wibol/mldonkey-ubuntu:latest,jellyfin/jellyfin:latest
+`rclone/rclone:latest,andrey01/aria2c:latest,wibol/mldonkey-ubuntu:latest,jellyfin/jellyfin:latest,v2ray/official:latest,dreamacro/clash:latest,benzbrake/goflyway:latest,messense/aliyundrive-webdav:latest`

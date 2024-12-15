@@ -6,7 +6,7 @@ on:
       docker_images:
         description: '请填写docker镜像名称,多个用英文逗号分开'
         required: true
-        default: 'alpine:latest,alpine/curl,busybox:stable-glibc'
+        default: 'rclone/rclone:latest,andrey01/aria2c:latest,wibol/mldonkey-ubuntu:latest,jellyfin/jellyfin:latest,v2ray/official:latest,dreamacro/clash:latest,benzbrake/goflyway:latest,messense/aliyundrive-webdav:latest'
 
 jobs:
   pull_and_package:
