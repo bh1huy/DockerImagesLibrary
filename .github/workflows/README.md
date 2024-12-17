@@ -66,3 +66,9 @@ docker pull youshandefeiyang/allinone:latest
 ```dockerfile
 docker pull moelin/1panel:latest
 ```
+
+#####3. [openwrt](https://hub.docker.com/r/zzsrv/openwrt)
+
+```dockerfile
+docker pull zzsrv/openwrt:latest
+```
