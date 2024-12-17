@@ -61,3 +61,8 @@ docker pull messense/aliyundrive-webdav:latest
 docker pull youshandefeiyang/allinone:latest
 ```
 
+##### 2. [1panel](https://hub.docker.com/r/moelin/1panel)
+
+```dockerfile
+docker pull moelin/1panel:latest
+```
