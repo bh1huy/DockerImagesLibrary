@@ -71,4 +71,19 @@ docker pull moelin/1panel:latest
 
 ```dockerfile
 docker pull zzsrv/openwrt:latest
+
+# 通过阿里云镜像提升镜像拉取速度
+docker pull registry.cn-hangzhou.aliyuncs.com/zzsrv/openwrt:latest
+```
+
+##### 4. [lede](https://hub.docker.com/r/shellspec/lede)
+
+```dockerfile
+docker pull shellspec/lede:17.01.7
+```
+
+##### 5. [koolshare](https://hub.docker.com/r/koolshare/koolshare-merlin-ubuntu)
+
+```dockerfile
+docker pull koolshare/koolshare-merlin-ubuntu:20170221v01
 ```
