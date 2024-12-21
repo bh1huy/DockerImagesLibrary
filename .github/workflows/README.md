@@ -67,7 +67,13 @@ docker pull youshandefeiyang/allinone:latest
 docker pull moelin/1panel:latest
 ```
 
-##### 3. [openwrt](https://hub.docker.com/r/zzsrv/openwrt)
+##### 3. [xiaoya-alist](https://hub.docker.com/r/xiaoyaliu/alist)
+
+```dockerfile
+docker pull xiaoyaliu/alist:latest
+```
+
+##### 4. [openwrt](https://hub.docker.com/r/zzsrv/openwrt)
 
 ```dockerfile
 docker pull zzsrv/openwrt:latest
@@ -76,13 +82,13 @@ docker pull zzsrv/openwrt:latest
 docker pull registry.cn-hangzhou.aliyuncs.com/zzsrv/openwrt:latest
 ```
 
-##### 4. [lede](https://hub.docker.com/r/shellspec/lede)
+##### 5. [lede](https://hub.docker.com/r/shellspec/lede)
 
 ```dockerfile
 docker pull shellspec/lede:17.01.7
 ```
 
-##### 5. [koolshare](https://hub.docker.com/r/koolshare/koolshare-merlin-ubuntu)
+##### 6. [koolshare](https://hub.docker.com/r/koolshare/koolshare-merlin-ubuntu)
 
 ```dockerfile
 docker pull koolshare/koolshare-merlin-ubuntu:20170221v01
